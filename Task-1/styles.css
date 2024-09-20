@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --primary-color: #f3eae5;
-    --text-dark:#2c2724;
+    --primary-color:  hsl(132, 62%, 89%);
+    --text-dark:hsl(15, 3%, 24%);
     --white:#ffffff;
     --max-width:1200px;
 
